@@ -7,3 +7,13 @@ This project is a To-Do List App built using HTML, CSS, and JavaScript. It allow
 * Delete Tasks – Remove tasks from the list instantly.
 * LocalStorage Support – Tasks are saved in the browser so they remain after refresh.
 * Responsive Design – Works smoothly on desktop, tablet, and mobile devices.
+
+ # Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+# Live Demo
+You can view and use the Calculator App online through the link below:
+
+🔗 Live Project: https://valke-archana.github.io/Calculator/
