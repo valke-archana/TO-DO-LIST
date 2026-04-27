@@ -16,4 +16,4 @@ This project is a To-Do List App built using HTML, CSS, and JavaScript. It allow
 # Live Demo
 You can view and use the Calculator App online through the link below:
 
-🔗 Live Project: https://valke-archana.github.io/Calculator/
+🔗 Live Project: https://valke-archana.github.io/TO-DO-LIST/
